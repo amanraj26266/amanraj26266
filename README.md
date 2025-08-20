@@ -1,5 +1,8 @@
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width = "500"/>
 <h1 align="center">Hi 👋, I'm Aman Raj</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">Welcome to my GitHub profile!  
+I’m passionate about **Software Development, Problem Solving, and Web Technologies**.  
+This repository showcases my coding journey, projects, and problem-solving skills.</h3>
 
 - 🌱 I’m currently learning **.net**
 
